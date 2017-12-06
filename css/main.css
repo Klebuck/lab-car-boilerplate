@@ -1,1 +1,28 @@
 /* Los estilos de tu proyecto */
+body{
+
+	font-family: 'Raleway', sans-serif;
+}
+
+#slider{
+  background-image: url(../assets/images/taxi.jpg);
+  background-size: cover;
+}
+
+#bg-slider{
+  background-color: #f7b617;
+  height: 300px;
+  margin-top: 10%;
+  margin-bottom: 25%;
+  color:white;
+}
+
+
+#nueva-aplicacion{
+	background-color: #f7b617;
+	margin-top: 10%;
+}
+
+#cuadro-texto{
+	margin-top: 10%;
+}
